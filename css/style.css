@@ -1,0 +1,11 @@
+.btn-group, .btn-group-vertical{
+    margin: auto;
+    display: flex;
+    width: fit-content;
+}
+form{
+    margin-top: 1em !important;
+}
+div.tab-content{
+    padding-top: 1em;
+}
